@@ -1,0 +1,65 @@
+/************GENERAL*********/
+
+html
+{
+	background-color: #ffffb3;
+}
+
+
+
+/*******header********/
+
+h1
+{
+	color:#0000cc;
+	font-family:Amasis MT Pro Black, Times New Roman;
+	text-align:center;
+}
+
+span.titolo
+{
+	background-color: #d9ffb3;
+	border:5px solid #99ff99;
+	padding:10px;
+}
+/********************nav****************/
+
+li
+{
+	display:inline-block;
+}
+
+a
+{
+	color:red;
+	font-family:arial;
+	text-decoration:none;
+	margin:0px 50px 0px 0px;
+	border:0px;
+}
+#nav a:hover{
+	color:#0000cc;
+}
+
+#nav
+{
+	text-align:center;
+	padding:15px;
+}
+
+
+/*********content************/
+
+h3
+{
+	color:violet;
+	text-align:center;
+}
+
+/***********content***************/
+
+#content
+{
+	width:400px;
+	margin:50px auto;
+}

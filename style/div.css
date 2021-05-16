@@ -1,0 +1,16 @@
+
+div.testo_sx,
+a.testo_sx
+{
+		text-align:left;
+}
+
+div.testo_centro
+{
+	text-align:center;
+}
+
+div.testo_dx
+{
+	text-align:right;
+}

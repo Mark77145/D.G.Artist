@@ -1,0 +1,60 @@
+/***********header***********/
+h2
+{
+	color:#329a5f;
+	font-family:Bahnschrift Condensed, Times New Roman;
+	font-style:italic;
+	background-color:#f5e1a3;
+	border:#e6b319 3px solid;
+	text-align:center;
+	width:400px;
+	margin:15px auto;
+}
+
+body
+{
+	background-color:#c9d4dd;
+}
+/*********nav**********/
+
+#nav a
+{
+	color:red;
+	font-family:Arial;
+	text-decoration:none;
+	padding:0px 0px 0px 0px;
+	display:inline-block;
+	margin:0px 30px 0px 0px;
+}
+#nav a:hover{
+	color:#0000cc;
+}
+
+#nav
+{
+	text-align:center;
+	padding:15px;
+	background-color:aquamarine;
+}
+
+/*************OPERE************/
+
+#opere a
+{
+	color:red;
+	font-family:arial;
+	text-decoration:none;
+	border:0px;
+}
+
+#opere a:hover
+{
+	color:#3c9ec4;
+}
+
+#opere li
+{
+	text-align:center;
+	margin:0px 0px 10px 0px;
+}
+
